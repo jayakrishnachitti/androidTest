@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_title_size">30sp</dimen>
+    <dimen name="sub_title_size">24sp</dimen>
+    <dimen name="headers_margin">20dp</dimen>
+</resources>

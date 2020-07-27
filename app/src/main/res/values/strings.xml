@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Test</string>
+    <string name="network_alert">Please check your network connection.</string>
+    <string name="service_error">Something went wrong...Please try later!</string>
+
+    <!--    Intent keys-->
+    <string name="product_id_key">photo_id</string>
+</resources>
